@@ -1,0 +1,6 @@
+Collision_Ref_No,Policing_Area,Collision_Severity,Weekday_of_Collision,Day_of_Collision,Month_of_Collision,Hour_of_Collision,Carriageway_Type,Speed_Limit,Junction_Detail,Junction_Control,Ped_Crossing_HC,Ped_Crossing_PC,Light_Conditions,Weather_Conditions,Road_Surface_Conditions,Special_Conditions_at_Site
+3518,CREA,3,MON,4,8,14,13,60,1,1,1,1,2,9,9,1
+10557,BELC,3,SAT,8,8,17,11,50,12,7,1,1,4,3,1,1
+5002,LISB,3,WED,5,11,17,1,60,12,7,1,1,2,2,2,1
+11714,BELC,3,SUN,18,10,16,12,70,6,NA,1,1,1,3,1,1
+12416,MIDU,3,MON,23,11,9,13,60,6,7,1,1,2,3,1,1
